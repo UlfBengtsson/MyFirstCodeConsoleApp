@@ -2,6 +2,10 @@
 
 namespace MyFirstConsoleApp
 {
+    /*
+     * Block comment
+     * many lines
+     */
     class Program
     {
         //Here is were the program starts
